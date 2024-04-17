@@ -7,6 +7,10 @@
     {
       "id": "All The Posts",
       "isDefault": false
+    },
+    {
+      "id": "Profile Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
