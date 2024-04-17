@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "All The Posts",
+      "isDefault": false
     }
   ],
   "viewMode": false,
