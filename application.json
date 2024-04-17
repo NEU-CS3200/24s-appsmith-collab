@@ -3,6 +3,10 @@
     {
       "id": "New Blog Post",
       "isDefault": true
+    },
+    {
+      "id": "All The Posts",
+      "isDefault": false
     }
   ],
   "viewMode": false,
