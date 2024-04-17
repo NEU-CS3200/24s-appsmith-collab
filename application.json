@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "New Blog Post",
       "isDefault": true
     }
   ],
@@ -15,6 +15,9 @@
   },
   "color": "#C7F3E3",
   "icon": "bitcoin",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
